@@ -130,7 +130,7 @@ Three application tiers deployed across three Availability Zones inside a custom
 
 ---
 
-## Quick start
+<!-- ## Quick start
 
 Prerequisites: AWS account, Terraform 1.6+, AWS CLI configured via SSO.
 
@@ -152,7 +152,7 @@ terraform apply
 terraform destroy
 ```
 
-📚 Full setup guide: [BUILD-PLAN.md](BUILD-PLAN.md)
+📚 Full setup guide: [BUILD-PLAN.md](BUILD-PLAN.md) -->
 
 ---
 
