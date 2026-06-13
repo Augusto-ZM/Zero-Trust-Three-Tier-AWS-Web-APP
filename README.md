@@ -16,7 +16,7 @@ Production-pattern web application on AWS demonstrating defense in depth and zer
 
 Build a hardened three-tier web application on AWS that mirrors real-world enterprise security patterns. 
 
-Every layer secured. Every resource codified. Every decision documented
+**Every layer secured. Every resource codified. Every decision documented**
 
 
 This project demonstrates the ability to:
@@ -42,7 +42,7 @@ Three application tiers deployed across three Availability Zones inside a custom
 
 ### Security controls
 
-**Edge**
+**Perimeter**
 - AWS WAF with managed rule groups (SQLi, XSS, common attacks)
 - Per-IP rate limiting
 - ACM-issued TLS 1.3 certificate
@@ -134,7 +134,7 @@ Prerequisites: AWS account, Terraform 1.6+, AWS CLI configured via SSO.
 
 ```bash
 # Clone
-git clone https://github.com/YOURNAME/zero-trust-aws-app.git
+git clone https://github.com/Augusto-ZM/Zero-Trust-Three-Tier-AWS-Web-APP.git
 cd zero-trust-aws-app
 
 # Configure backend
@@ -172,7 +172,7 @@ Single biggest cost trap: NAT Gateway at ~$1/day. Always destroy when not in use
 
 ## About
 
-Built by **[Your Name]** as portfolio work for Cloud Security Engineer roles.
+Built by **Augusto F. Zorrilla Mendez** as portfolio work for Cloud Security Engineer roles.
 
 🎓 Master's in Cybersecurity, University of Nebraska Omaha (graduating Dec 2026)
 📜 AWS Solutions Architect Associate (in progress)
