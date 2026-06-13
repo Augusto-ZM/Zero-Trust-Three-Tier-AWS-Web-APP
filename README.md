@@ -119,7 +119,8 @@ Three application tiers deployed across three Availability Zones inside a custom
 
 ## Documentation
 
-- [📐 Architecture Diagram](docs/diagrams/project-a-architecture.svg) — _coming Week 2_
+- [📐 Architecture Diagram](docs/diagrams/project-a-architecture.svg)
+<img src="docs/diagrams/project-a-architecture.svg" alt="Project A Architecture" width="100%">
 - [🎯 Threat Model (STRIDE)](THREAT-MODEL.md) — _coming Week 8_
 - [📊 NIST CSF 2.0 Mapping](NIST-CSF-MAPPING.md) — _coming Week 8_
 - [📝 Architecture Decision Records](docs/ADRs/) — _added per decision_
